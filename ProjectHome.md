@@ -1,0 +1,1 @@
+A solar system environment based on OpenGL and Java (JOGL 2)
